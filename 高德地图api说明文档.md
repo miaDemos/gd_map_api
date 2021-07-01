@@ -1,6 +1,6 @@
 ## 高德地图api调用说明
 
-> gitlab地址：
+> githab地址：https://github.com/miaDemos/gd_map_api.git
 
 > 参考文档：https://lbs.amap.com/api/javascript-api/reference/core
 
