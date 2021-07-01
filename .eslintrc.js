@@ -1,5 +1,5 @@
 /*
- * @Description: 
+ * @Description:
  * @Version: 2.0
  * @Autor: 王敏
  * @Date: 2021-06-28 16:55:13
@@ -15,14 +15,10 @@ module.exports = {
 
   globals: {
     AMap: null,
-    AMapUI:null,
+    AMapUI: null
   },
 
-  extends: ["plugin:vue/essential","eslint:recommended"],
-
-  rules: {
-   
-  },
+  extends: ['eslint:recommended', 'standard', 'plugin:vue/recommended'],
 
   parserOptions: {
     parser: 'babel-eslint'
